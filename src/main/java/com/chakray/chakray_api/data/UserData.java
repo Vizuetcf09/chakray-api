@@ -40,7 +40,7 @@ public class UserData {
                         .email("user1@mail.com")
                         .name("user1")
                         .phone("+1 55 666 666 66")
-                        .password("7c4a8d09ca3762af61e59520943dc26494f8941b") // ejemplo hash
+                        .password("7c4a8d09ca3762af61e59520943dc26494f8941c")
                         .tax_id("BBCC900202YYY")
                         .created_at(LocalDateTime.of(2024, 2, 1, 0, 0))
                 .addresses(Arrays.asList(
@@ -63,7 +63,7 @@ public class UserData {
                     .email("user2@mail.com")
                     .name("user3")
                     .phone("+1 55 777 777 77")
-                    .password("7c4a8d09ca3762af61e59520943dc26494f8941b")
+                    .password("7c4a8d09ca3762af61e59520943dc26494f8941d")
                     .tax_id("CCDD910303ZZZ")
                     .created_at(LocalDateTime.of(2025, 3, 1, 0, 0))
                 .addresses(Arrays.asList(
